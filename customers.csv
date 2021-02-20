@@ -1,0 +1,6 @@
+id,first_name,last_name,email,gender,company,city,title
+1,William,Gates,bill@microsoft.com,Male,Facebook,"Tampa, FL",Physics Teacher
+2,Miguela,Mendoza,mmendoza@gmail.com,Female,Pollos Hermanos,"East Natchitoches, PA",VP Marketing
+3,Michael,dell,michael@dell.com,Male,Dell,"Lyon, WV",Janitor
+4,James,Dean,jdean@hotmail.com,Male,Something,"Willow Run, IL",Physical Therapy Assistant
+
